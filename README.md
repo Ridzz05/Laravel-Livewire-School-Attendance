@@ -14,6 +14,8 @@ Sistem informasi akademik untuk manajemen sekolah yang mencakup:
 - Alpine.js
 - Tailwind CSS
 
+## Tampilan Menu
+![Dashboard](public/preview.jpg)
 
 ## Fitur
 
