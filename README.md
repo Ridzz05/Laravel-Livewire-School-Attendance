@@ -15,7 +15,7 @@ Sistem informasi akademik untuk manajemen sekolah yang mencakup:
 - Tailwind CSS
 
 ## Tampilan Menu
-![Dashboard](public/preview.jpg)
+![Dashboard](public/dashboard.png)
 
 ## Fitur
 
